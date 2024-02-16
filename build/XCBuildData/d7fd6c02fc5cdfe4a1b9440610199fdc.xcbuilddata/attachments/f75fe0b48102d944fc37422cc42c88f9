@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_AssignmentProjectVersionString[];
+ extern const double Pods_AssignmentProjectVersionNumber;
+
+ const unsigned char Pods_AssignmentProjectVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_AssignmentProject  PROJECT:Pods-1" "\n";
+ const double Pods_AssignmentProjectVersionNumber __attribute__ ((used)) = (double)1.;
